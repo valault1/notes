@@ -32,9 +32,10 @@ declare module "@mui/material/styles" {
   }
 }
 let myGray = "#979dac";
-let primary = "#560bad";
+let primary = "#4D96FF";
 //let secondary = "#C8B6FF; //Light purple color
-let secondary = "#4D96FF"; // light blue
+//let secondary = "#560bad" //dark purple
+let secondary = "#C8B6FF"; //
 //let secondary = "#FFA1C9"; // Light pink
 //let secondary = "#FF008E"; // Vivid pink
 let textPrimary = "#FFFFFF";
